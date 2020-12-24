@@ -5,9 +5,12 @@ In this repository, I'll share with anyone my studies about Java program languag
 Eclipse IDE for Java Developers
 Version: 2019-12 (4.14.0)
 
+IntelliJ IDEA 2020.3 (Community Edition)
+Build #IC-203.5981.155, built on November 30, 2020
+Runtime Version: 11.0.9+11-b1145.21 amd64
+
 # IDE Plugins
 Darkest Dark Theme Devstyle can be found on the [Eclipse Marketplace](http://marketplace.eclipse.org/content/darkest-dark-theme-devstyle)
-
 
 # Knowledge Acquired on the Road
 # The Basics

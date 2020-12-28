@@ -33,3 +33,12 @@ Darkest Dark Theme Devstyle can be found on the [Eclipse Marketplace](http://mar
 8. Polymorphism (Overloading methods and Overriding methods)
 9. Interfaces (keyword: implements, classname pattern: ISomething)
 10. Abstract classes
+
+# Native Java Api's 
+1. How to create Maven projects
+2. Access modifiers: public, private, protected and default
+3. What is Wrapper Classes
+4. What is Annotations
+5. How to create, write, read and print file contents (File, FileInputStream, FileOutputStream, BufferedReader, BufferedInputStream and DataInputStream)
+6. What is Java Collection interfaces (List, ArrayList, Map and HashMap)
+

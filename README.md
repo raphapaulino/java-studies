@@ -1,7 +1,7 @@
 # Java Studies
 In this repository, I'll share with anyone my studies about Java program language
 
-# IDE
+# IDEs
 Eclipse IDE for Java Developers
 Version: 2019-12 (4.14.0)
 
@@ -37,8 +37,17 @@ Darkest Dark Theme Devstyle can be found on the [Eclipse Marketplace](http://mar
 # Native Java Api's 
 1. How to create Maven projects
 2. Access modifiers: public, private, protected and default
-3. What is Wrapper Classes
-4. What is Annotations
-5. How to create, write, read and print file contents (File, FileInputStream, FileOutputStream, BufferedReader, BufferedInputStream and DataInputStream)
-6. What is Java Collection interfaces (List, ArrayList, Map and HashMap)
+3. What is Annotations
+4. How to create, write, read and print file contents (File, FileInputStream, FileOutputStream, BufferedReader, BufferedInputStream and DataInputStream)
+5. What is Java Collection interfaces (List, ArrayList, Map and HashMap)
 
+# Java with JDBC
+1. What is JDBC
+2. How to set dependencies (MySQL Connector/J in this case) and download them using pom.xml file
+3. How to create MySQL connection 
+4. What is statement and prepareStatement
+5. How to create and execute DDL (Data Definition Language) statements (CREATE, ALTER, DROP, TRUNCATE, etc DATABASES)
+6. How to create and execute DML (Data Manipulation Language) statement (SELECT, INSERT, UPDATE or DELETE the records)
+7. How and why create models is a good practice
+8. What is and why we must create DAO classes
+9. How to create and implement CRUD methods

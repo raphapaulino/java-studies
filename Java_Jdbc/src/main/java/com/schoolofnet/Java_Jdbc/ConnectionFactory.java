@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConnectionFactory {
 	private final String URL = "jdbc:mysql://localhost:3306/studies_school_java_movies?serverTimeZone=UTC&useSSL=false&allowPublicKeyRetrieval=true";
 	private final String USER = "raphael";
-	private final String PASSWORD = "wiccano28";
+	private final String PASSWORD = "***REMOVED***";
 	private final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
 	
 	private Connection createConnection() throws ClassNotFoundException {

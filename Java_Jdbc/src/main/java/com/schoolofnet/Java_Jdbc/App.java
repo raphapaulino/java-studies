@@ -21,7 +21,7 @@ public class App
 //        Connection connection = null;
 //        
 //        try {
-//			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/studies_school_java_movies?serverTimeZone=UTC&useSSL=false&allowPublicKeyRetrieval=true", "raphael", "wiccano28");
+//			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/studies_school_java_movies?serverTimeZone=UTC&useSSL=false&allowPublicKeyRetrieval=true", "raphael", "***REMOVED***");
 //		} catch (SQLException e) {
 //			// TODO Auto-generated catch block
 //			e.printStackTrace();
